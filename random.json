@@ -1,0 +1,37 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "age": 25,
+      "occupation": "Engineer",
+      "hobbies": ["Reading", "Painting", "Hiking"],
+      "address": {
+        "city": "New York",
+        "country": "USA"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "age": 30,
+      "occupation": "Teacher",
+      "hobbies": ["Cooking", "Photography", "Gardening"],
+      "address": {
+        "city": "London",
+        "country": "UK"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "age": 22,
+      "occupation": "Graphic Designer",
+      "hobbies": ["Traveling", "Playing Guitar", "Video Editing"],
+      "address": {
+        "city": "Paris",
+        "country": "France"
+      }
+    }
+  ]
+}
