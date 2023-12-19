@@ -31,8 +31,14 @@
   },
   {
     "name": "Dastan",
-    "surname": "Murtaliev",
+    "surname": "Murataliev",
     "age": 20,
     "photo": "images/dastan.jpg"
+  },
+  {
+    "name": "Nur-mukhammed",
+    "surname": "Dunlzov",
+    "age": 17,
+    "photo": "images/myxa.gif"
   }
 ]
